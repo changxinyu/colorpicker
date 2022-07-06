@@ -10,3 +10,7 @@ This is my second JavaScript project.
 The difficulty of the project is to control the position of the cursor and the conversion of the cursor and the value by adjusting the values of RGB and HEX.
 
 Thanks my friends for helping me to resolve that problems.
+
+# Demo
+https://changxinyu.com/colorfun/colorfun.html
+https://codepen.io/changxinyu/pen/xxWZZMB
